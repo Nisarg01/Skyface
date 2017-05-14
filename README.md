@@ -8,14 +8,14 @@
 * Will upload the wearable version soon with instructions.
 
 ### Salient Features
-* Feature Rich
-* Intuitive UI
-* Works fast
+* Small size.
+* Intuitive UI.
+* Works fast.
 * Doesn't show ads. 
 * Doesn't store cookies.
 
 ### Upcoming Updates
-* AI and IoT integration (For my fellow Embedded systems geeks)
+* AI and IoT integration (For my fellow Embedded systems geeks).
 * Wearable and Wearable Widget versions.
 
 ### Take a look!
